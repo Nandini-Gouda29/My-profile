@@ -8,7 +8,7 @@
 
 ---
 
-##**👩‍💻 About Me**
+**👩‍💻 About Me**
 
 - 🎓 Currently pursuing B.E in Data Science Engineering
 - 🌱 Currently learning Machine Learning, Big Data, and Data Analytics
@@ -17,18 +17,18 @@
 
 ---
 
-##**🛠️ Skills**
+**🛠️ Skills**
 
-###**💻 Programming Languages**
+**💻 Programming Languages**
 
 -🐍 Python | ☕ Java | 🔧 C | 🗄️ SQL
 
-###**⚙️ Technologies & Tools**
+**⚙️ Technologies & Tools**
 
 🤖 Machine Learning | 📊 Data Analysis | 🗂️ Big Data | 🌿 Git | 🐙 GitHub | 📝 VS Code
 ---
 
-##**📊 GitHub Stats**
+**📊 GitHub Stats**
 
 "GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
@@ -36,7 +36,7 @@
 
 ---
 
-##**🌐 Connect with Me**
+**🌐 Connect with Me**
 
 📧 Email
 💼 LinkedIn: https://www.linkedin.com/in/nandini-n-062612399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
