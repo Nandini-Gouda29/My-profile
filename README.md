@@ -25,12 +25,7 @@ Hi 👋 I'm Nandini
 
 ⚙️ Technologies & Tools
 
--🤖 Machine Learning 
--📊 Data Analysis 
--🗂️ Big Data 
--🌿 Git 
--🐙 GitHub 
--📝 VS Code
+🤖 Machine Learning | 📊 Data Analysis | 🗂️ Big Data | 🌿 Git | 🐙 GitHub | 📝 VS Code
 ---
 
 📊 GitHub Stats
