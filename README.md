@@ -1,4 +1,5 @@
- **Hi 👋 I'm Nandini**
+# **Hi 👋 I'm Nandini**
+ 
 🎓 DATA SCIENCE ENGINEERING STUDENT
 
 -💡 Passionate about transforming data into meaningful insights and building intelligent solutions.
