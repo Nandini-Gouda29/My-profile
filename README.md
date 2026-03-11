@@ -2,8 +2,9 @@ Hi 👋 I'm Nandini
 
 🎓 DATA SCIENCE ENGINEERING STUDENT
 
-💡 Passionate about transforming data into meaningful insights and building intelligent solutions.
-📊 Interested in solving real-world problems using data and technology.
+-💡 Passionate about transforming data into meaningful insights and building intelligent solutions.
+
+-📊 Interested in solving real-world problems using data and technology.
 
 ---
 
@@ -19,10 +20,17 @@ Hi 👋 I'm Nandini
 🛠️ Skills
 
 💻 Programming Languages
-🐍 Python | ☕ Java | 🔧 C | 🗄️ SQL
+
+-🐍 Python | ☕ Java | 🔧 C | 🗄️ SQL
 
 ⚙️ Technologies & Tools
-🤖 Machine Learning | 📊 Data Analysis | 🗂️ Big Data | 🌿 Git | 🐙 GitHub | 📝 VS Code
+
+-🤖 Machine Learning 
+-📊 Data Analysis 
+-🗂️ Big Data 
+-🌿 Git 
+-🐙 GitHub 
+-📝 VS Code
 ---
 
 📊 GitHub Stats
