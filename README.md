@@ -1,10 +1,11 @@
 <div align="center">
 
 # Nandini N
-### Data Science Engineering Student | AI & Analytics Enthusiast
+### Data Science Engineering Student | AI & Analytics
 
 <br/>
 
+<!-- SOCIAL MEDIA BADGES -->
 <a href="https://www.linkedin.com/in/nandini-n-062612399">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -25,16 +26,27 @@
 
 ---
 
-### 📌 About Me
+### 💫 About Me
 
-* 🎓 Pursuing a **B.E. in Data Science Engineering**
-* 💡 Passionate about extracting actionable insights from complex datasets and engineering intelligent systems
-* 🛠️ Deepening expertise in **Machine Learning**, **Big Data Architecture**, and **Data Analytics**
-* 🎯 Focused on building scalable, real-world data science applications
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 Pursuing a <b>B.E. in Data Science Engineering</b></li>
+        <li>💡 Passionate about extracting actionable insights and engineering intelligent algorithms</li>
+        <li>🌱 Deepening expertise in <b>Machine Learning</b>, <b>Big Data Architecture</b>, and <b>Advanced Analytics</b></li>
+        <li>🎯 Focused on building scalable, data-driven solutions for real-world problems</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini-Gouda29&theme=tokyonight&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Expertise
 
 <div align="center">
 
@@ -64,12 +76,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Performance & Analytics
 
 <div align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nandini-Gouda29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-Gouda29&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini-Gouda29&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
@@ -77,6 +93,7 @@
 
 <div align="center">
 
+<!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Nandini-Gouda29&color=7f5af0&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
